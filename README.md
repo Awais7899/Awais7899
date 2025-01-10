@@ -3,15 +3,15 @@
 I'm Awais Ahnad, a  passionate software engineer currently working as a Software engineer at Hybreathe.
 
 ## 🌟 Overview
+---
 **Software Engineer** with over 2 years of experience in building high-quality, scalable, and user-friendly mobile and web applications using **React.Js**, **React Native**, **Node.Js**, and **Laravel**. I specialize in mobile app development and have expertise in frontend and backend technologies. I am always eager to learn new skills and solve challenging problems for better solutions.
 
----
-
 ### Most Used Languages
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais7899&layout=compact&theme=radical)
 
 ## 💻 Skills
-
+---
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,6 +34,7 @@ I'm Awais Ahnad, a  passionate software engineer currently working as a Software
 
 
 ## **Summary**
+---
 I'm a dedicated developer with a strong grip on **React**, **React Native**, and **Node.js**. I have a proven track record of delivering robust and efficient solutions, from real-time communication applications to real-time location-based platforms. My proficiency in state management libraries like **Redux** and **Context API**, along with API management using **React Query** and **Axios**, allows me to build seamless, high-performing applications.
 
 I'm particularly skilled in:
@@ -41,6 +42,11 @@ I'm particularly skilled in:
 - **Real-Time Communication**: Using technologies like **WebRTC**, **Firebase**, **Socket.IO**, and **PubNub**.
 - **Authentication & Notifications**: Utilizing **Firebase Auth**, **Firebase Push Notifications**, and **Notifee** for secure authentication and real-time notifications.
 - **UI/UX Development**: Developing high-performance layouts using **React Native Elements**, and custom UI components.
+
+## **Contact**
+---
+Feel free to reach out if you'd like to collaborate or discuss potential opportunities!
+
 
 
 
