@@ -1,20 +1,9 @@
-## Hi there 👋
+# Hi there! 👋 I'm Awais Ahmad
 
-## I'm Husnain Gohar, a passionate and experienced Full Stack JavaScript Developer currently a Senior Software Engineer at Tkxel.
+🚀 React Native Developer | 💻 Full-Stack Developer | 🌟 Open-Source Contributor
 
+### About Me
+I'm a passionate software engineer with expertise in mobile development. I specialize in React Native and creating scalable applications.
 
-
-<!--
-**Awais7899/Awais7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awaisahmad&show_icons=true&theme=radical)
