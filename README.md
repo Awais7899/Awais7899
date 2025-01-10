@@ -10,8 +10,6 @@ I'm Awais Ahnad, a  passionate software engineer currently working as a Software
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais7899&layout=compact&theme=radical)
 
-
-
 ## 💻 Skills
 
 
@@ -23,26 +21,58 @@ I'm Awais Ahnad, a  passionate software engineer currently working as a Software
 ### **Framework and Libraries**
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=zustand&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-%23F7A80D.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+# Awais Ahmad's Developer Profile
+
+### **Summary**
+I'm a dedicated developer with a strong grip on **React**, **React Native**, and **Node.js**. I have a proven track record of delivering robust and efficient solutions, from real-time communication applications to finance-related platforms. My proficiency in state management libraries like **Redux** and **Zustand**, along with API management using **React Query** and **Axios**, allows me to build seamless, high-performing applications.
+
+I'm particularly skilled in:
+
+- **Real-Time Communication**: Using technologies like **WebRTC**, **Firebase**, **Socket.IO**, and **PubNub**.
+- **Storage Solutions**: Implementing **AWS S3**, **Firebase Storage**, and other cloud storage solutions.
+- **Authentication & Notifications**: Utilizing **Firebase Auth**, **Firebase Push Notifications**, **One Signal SDK**, and **Notifee** for secure authentication and real-time notifications.
+- **UI/UX Development**: Developing high-performance layouts using **Masonry List**, **RecyclerView**, and custom UI components.
+
+I am passionate about continuous learning and growth, and I thrive in collaborative environments where I can contribute to innovative solutions and tackle complex problems.
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23778CFF.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### **Framework and Libraries**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%23000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Utilities**
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora-%230078D7.svg?style=for-the-badge&logo=agora&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-%2300A8E8.svg?style=for-the-badge&logo=webrtc&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### **Contact**
+Feel free to reach out if you'd like to collaborate or discuss potential opportunities!
+
+---
 
 
 
