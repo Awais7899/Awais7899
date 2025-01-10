@@ -31,7 +31,7 @@ I'm particularly skilled in:
 
 - **Real-Time Communication**: Using technologies like **WebRTC**, **Firebase**, **Socket.IO**, and **PubNub**.
 - **Authentication & Notifications**: Utilizing **Firebase Auth**, **Firebase Push Notifications**, and **Notifee** for secure authentication and real-time notifications.
-- **UI/UX Development**: Developing high-performance layouts using **React Native Elements**, and custom UI components.
+- **UI/UX Development**: Developing high-performance layouts using  custom UI components.
 
 ## **Contact**
 Feel free to reach out if you'd like to collaborate or discuss potential opportunities!
