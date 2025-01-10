@@ -1,9 +1,15 @@
-# Hi there! 👋 I'm Awais Ahmad
+# Hi there! 👋 
 
-🚀 React Native Developer | 💻 Full-Stack Developer
+I'm Awais Ahnad, a  passionate software engineer currently working as a Software engineer at Hybreathe.
 
-### About Me
-I'm a passionate software engineer with expertise in mobile development currently working as a Software engineer at Hybreathe.
+## 🌟 Overview
+Hello! I am a passionate **React Native Developer** with 2+ years of experience in building high-quality, scalable, and user-friendly mobile applications. I specialize in mobile app development and have expertise in frontend and backend technologies. I am always eager to learn new skills and solve challenging problems to deliver better solutions.
+
+- 🔭 Currently working on **real-time video calling apps** and **location-based parking solutions**.
+- 💬 Open to discussing **React Native development**, **WebRTC**, and **Firebase integration**.
+- 🌱 Always learning and improving my skills in **TypeScript**, **Redux Toolkit**, and **AWS**.
+
+---
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais7899&layout=compact&theme=radical)
