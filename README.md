@@ -36,6 +36,9 @@ I'm particularly skilled in:
 ## **Contact**
 Feel free to reach out if you'd like to collaborate or discuss potential opportunities!
 
+- Email: [hafiz.awais.8834@gmail.com](mailto:your.email@example.com)
+- LinkedIn: [Awais Ahmad](https://www.linkedin.com/in/awais-ahmad-59a53a24b/)
+
 
 
 
