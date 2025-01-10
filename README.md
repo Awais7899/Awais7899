@@ -14,11 +14,11 @@ I'm Awais Ahnad, a  passionate software engineer currently working as a Software
 
 ## 💻 Skills
 
-<div align="center">
 
 ### **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23778CFF.svg?style=for-the-badge&logo=php&logoColor=white)
+
 
 ### **Framework and Libraries**
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -43,6 +43,6 @@ I'm Awais Ahnad, a  passionate software engineer currently working as a Software
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-%230078D7.svg?style=for-the-badge&logo=agora&logoColor=white)
 
-</div>
+
 
 
