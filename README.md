@@ -5,5 +5,6 @@
 ### About Me
 I'm a passionate software engineer with expertise in mobile development. I specialize in React Native and creating scalable applications.
 
-### 📈 GitHub Stats
-![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awaisahmad&show_icons=true&theme=radical)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais7899&layout=compact&theme=radical)
+
