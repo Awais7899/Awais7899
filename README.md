@@ -29,8 +29,8 @@ I'm a dedicated developer with a strong grip on **React**, **React Native**, and
 
 I'm particularly skilled in:
 
-- **Real-Time Communication**: Using technologies like **WebRTC**, **Firebase**, **Socket.IO**, and **PubNub**.
-- **Authentication & Notifications**: Utilizing **Firebase Auth**, **Firebase Push Notifications**, and **Notifee** for secure authentication and real-time notifications.
+- **Real-Time Communication**: Using technologies like **WebRTC**, **Firebase**,and **Socket.IO**.
+- **Authentication & Notifications**: Utilizing **Firebase Auth**, **Firebase Push Notifications**,**APNs** and **Notifee** for secure authentication and real-time notifications.
 - **UI/UX Development**: Developing high-performance layouts using  custom UI components.
 
 ## **Contact**
