@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Husnain Gohar, a passionate and experienced Full Stack JavaScript Developer currently working as a Senior Software Engineer at Tkxel.
+## I'm Husnain Gohar, a passionate and experienced Full Stack JavaScript Developer currently a Senior Software Engineer at Tkxel.
 
 
 
