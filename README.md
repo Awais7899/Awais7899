@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Husnain Gohar, a passionate and experienced Full Stack JavaScript Developer currently working as a Senior Software Engineer at Tkxel.
+
+
+
 <!--
 **Awais7899/Awais7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
